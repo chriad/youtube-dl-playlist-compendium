@@ -14,7 +14,7 @@ In fact, every set of videos can be downloaded as a playlist, because all videos
 
 First just download the titles of the playlist:
 #+begin_src bash :results value verbatim :format: raw
-youtube-dl --get-title https://www.youtube.com/playlist?list=PLzH6n4zXuckpfMu_4Ff8E7Z1behQks5ba
+youtube-dl --get-title PLzH6n4zXuckpfMu_4Ff8E7Z1behQks5ba
 #+end_src
 
 #+RESULTS:
