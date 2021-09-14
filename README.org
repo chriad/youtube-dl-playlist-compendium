@@ -73,3 +73,7 @@ cat *.info.json | json --group | jq '.[].upload_date'
 ** Projects of interest
 - https://github.com/ankenyr/jellyfin-youtube-metadata-plugin.git
 - https://stackoverflow.com/a/67144906/2376000 -> another degree of freedem by calling youtube-dl multiple times in one shell script
+
+** Introduce this concept
+static playlist: will not be updated: e.g. conference
+dynamic, will be updated
