@@ -77,3 +77,6 @@ cat *.info.json | json --group | jq '.[].upload_date'
 ** Introduce this concept
 static playlist: will not be updated: e.g. conference
 dynamic, will be updated
+
+youtube-dl --no-warnings --get-url https://hpc.guix.info/events/2021/atelier-reproductibilit%C3%A9-environnements/ | wget -i -
+
