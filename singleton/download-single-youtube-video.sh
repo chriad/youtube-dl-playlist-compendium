@@ -6,7 +6,7 @@
 /usr/local/bin/youtube-dl "$1" --config-location <(echo "
 -i
 -c
--o '/media/chriad/lenovo/TV/%(extractor)s/%(channel)s/%(title)s.%(ext)s'
+-o '/media/chriad/lenovo/%(extractor)s/%(channel)s/%(title)s.%(ext)s'
 --write-info-json
 --write-thumbnail
 --write-description

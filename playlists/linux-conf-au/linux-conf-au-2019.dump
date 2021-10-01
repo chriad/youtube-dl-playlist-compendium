@@ -1,0 +1,161 @@
+001    Chaining some blocks together
+002    What the dep is going on with Go dependency management
+003    Python++ – Bringing your code to the next level
+004    Keynote - Beyond README.md (Room C1)
+005    Clockwork - Programming with rules
+006    The Free Software Mirror Group
+007    Dirty Samba hacks to make your life easier
+008    Distributed storage is easier now - usability from Ceph Luminous to Nautilus
+009    Prometheus - For both big and little people
+010    Being kind to 3am you
+011    The Value of an Apology
+012    Survival guide for women in IT
+013    The Joy of Spreadsheets
+014    Printed circuit artboards - how rapid PCB manufacturing is a thing of beauty
+015    Teaser - Meet the Open Source 4G Commodore 64
+016    Oracle Public Cloud DevOps - OpenStack CI_CD Infrastructure
+017    Samba for the 100,000 user enterprise - are we there yet
+018    Automated firewall testing
+019    Toolmaking
+020    Keeping the Balance - loadbalancing demystified
+021    Reliable Linux Kernel Crash Dump with Micro-Controller Assistance
+022    How Much Do You Trust That Package Understanding The Software Supply Chain
+023    Zen and the Art of Learning Assembler in the 21st Century
+024    The Bus Plan - Junior Staff Training
+025    Through the looking glass - how user testing can give technical writers better perspective
+026    How to Disappear Completely
+027    MIXED REALITY AND ART - THE QUEST FOR THE SHINY
+028    XArray - One Data Structure To Rule Them All
+029    Patching through the snow - decentralised kernel CI on every patch
+030    My year on the front line - cleaning infected sites
+# 031    JIT Learning - It's great until it isn't
+032    Keynote - #WeAreNotWaiting - how open source is changing healthcare (C1)
+033    How to avoid meetings
+034    Using containers for HPC workloads (but avoiding Docker)
+035    Creating Ubuntu and Debian container base images, the old and  simple way
+036    Disaster recovery book
+037    Noisefloor - Are web technologies ready for real time audio
+038    Finding your tribe - choosing open source communities
+039    When Agile Doesn't Work Anymore - Managing a Large Documentation Project
+040    AI and AR a match made in heaven
+041    Forwarding syscalls to userspace
+042    Using an Open Source SDN controller to deploy a high-speed production network
+043    RCU's First-Ever CVE, and How I Lived to Tell the Tale
+044    FPGA based mobile phone - Creating a truly open and trustable mobile communications device
+045    Making Yourself Redundant on Day One
+046    Bugs in your server
+047    Kernel Security Is Cool Again
+048    De-mystifying interrupt balancing - irqbalance
+049    Open CS education resources for schools - how hard could it be
+050    Stepping up the game against Web trackers
+051    The case for learning real programming skills
+052    The delightful user experience of security
+053    Open Source Superhumans
+054    Keynote - Personal Branding for the Security Conscious (C1)
+055    Home Automation, just do it
+056    Autopsy of a Browser
+057    Design for Security
+058    The world has changed, but school hasn't
+059    Open Source AI and speech recognition
+060    Designing functional clothes with Haskell!
+061    Stories as Systems - How emerging narrative tools are shaping the future of storytelling
+062    Deep Learning, Not Deep Creepy
+063    MM101 introduction to memory management
+064    Hot Potato
+065    Optimising ID Allocation for low-memory devices
+066    Desktop to Mobile - Developing for Multiple Platforms without Losing Your Mind
+067    The AV1 Video Codec
+068    The Robots Won't Take Away Our Jobs — Let's Reframe the Debate on Artificial Intelligence
+069    Firmware security, why it matters and how you can have it
+070    Taking technology to the birds
+071    What's new in control groups (cgroups) version 2
+072    FileSender - Sharing large files across research facilities
+073    Using Open Hardware from my shirt to OS testing for Google's Fuchsia
+074    Mega65 Full Demo
+075    SymbiFlow - The next generation FOSS FPGA toolchain
+076    Around the world in 80 Microamps - ESP32 and LoRa for low-power IoT
+077    The Tragedy of systemd
+078    Clang Built Linux
+079    Democratising higher education with OERs and FOSS
+080    Expanding the Soft Skills Toolkit - The Art and Science of Diagramming
+081    A case study in incrementing a language's major version - PHP
+082    Learn Complex Skills, From Anywhere - Combining Django, Ansible and OpenStack to teach any tech skill
+083    Gen-Z on Linux - Supporting a New System Interconnect in Free Software
+084    Decentralising identity
+085    Plastic is Forever - Designing Tomu's Injection-Molded Case
+086    Using open source communities to provide uni students an insight into the IT industry.
+087    Open Source Quantum Computing
+088    GStreamer WebRTC - The flexible solution to web-based media
+089    The dark side of the ForSSHe
+090    Climbing the Summit with Open Source and POWER9
+091    Keynote - A linux.conf.au Story (C1)
+092    See what your computer is doing with Ftrace utilities
+093    Booting faster
+094    How the quest to prevent time from running out has led me to all corners of the Linux kernel
+095    Game development with Lua, for Beginners
+096    'I'm sorry Dave, I can't do that' - Ethics in Software Development
+097    Doing it the Hard Way - Building a Vulkan VR Engine for Linux
+098    Rust for IOT
+099    Why linux.conf.au continues to amaze 20 years on!
+100    Hardware hacking 101 - There is plenty of room at the bottom
+101    Right to Not Broadcast
+102    Designing & manufacturing a custom embedded linux machine.
+103    BlueHackers - a decade
+104    MR Security - Learning from IoT's Mistakes
+105    Growing TypeScript and Rust
+106    Finite state machines - a design pattern for FPGAs and React
+107    Sequencing DNA with Linux Cores and Nanopores
+108    Improving Graphics Interactivity - It's All in the Timing.
+109    A Long Day's Journey Into Backups
+110    Open Source. Open Data. Changing lives for the better.
+111    Awesome Monitoring Infrastructure Using the Elastic Stack
+112    Using containers to analyse the impact of climate change
+113    Linux Kernel Licensing - toward 'grep'ability.
+114    Taking it to the Nest Level - Nested KVM on the POWER9 Processor
+115    Go All-In!
+# 116    Lets LISP like it's 1959
+117    Executable Code Golf - Making Tiny Binaries for Constrained Systems
+118    Cache Pathology Report of Linux System Calls
+119    Web Security 2019
+120    Open Source Tools for Publishing and Processing Earth Observation Imagery
+121    Adding location awareness with GPS technology
+122    Faucet SDN Tutorial
+123    The kernel report
+124    Beach Wreck Ignition - Challenges in open source voice
+125    Network Monitoring with AMP
+126    Teaching 9-10 year olds to code
+127    Petitboot - Linux in the Bootloader
+128    Home multimedia and automation systems with GStreamer
+129    Security Vulnerability Mitigations
+130    Multiple Birds with One Linux, IoT in the Automotive Space
+# 131    Docker for novices
+132    Preventing the IoT Dystopia with Copyleft
+133    Clockwork and its tools – Open Source Software to make things more easily
+# 134    Facebook, Dynamite, Uber, Bombs, and You.
+135    Does making the kernel harder make making the kernel harder
+136    Making the P.A.I.N C.A.V.E
+137    Production ready Kubernetes in OpenStack public clouds
+138    OpenLI - Lawful Intercept Without the Massive Price Tag
+139    Writing Viruses for Fun, not Profit
+140    Open Source Magnetic Resonance Imaging - From the Community to the Community.
+141    But Mummy I don't want to use CUDA - Open source GPU compute
+142    Making C Less Dangerous in the Linux kernel
+143    Apathy and Arsenic - a Victorian Era lesson on fighting the surveillance state
+144    1space - Sharing data across clouds
+145    Building reproducible computing environments - a workshop for non-experts
+146    Maintaining the Unmaintainable - Picking up the Baton of a Secure Kernel Patchset
+147    Who pays the piper The caller of the tune.
+148    Conference Lightning Talks (Friday)
+149    STM32 Development Boards (literally) Falling From The Sky
+150    Conclusion - LCA 2019
+151    Digital Future Aotearoa report back from the Children's Program
+152    Donkey Car electronics design
+153    Lightning Talks - C2, Monday
+154    Donkey Car tuning and training
+155    Donkey Cars in education
+156    10 years of Open Hardware Miniconf projects
+157    Lighting Talks C3 Monday
+158    LED Matrix Fun
+159    Petabytes Data Migration and Load Balancing with Football+MARS
+160    Mozilla Project Things Workshop
+161    Database as Filesystem

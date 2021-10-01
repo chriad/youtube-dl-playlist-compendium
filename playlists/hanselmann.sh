@@ -1,10 +1,10 @@
 #!/bin/bash
 # Download playlist tracked by ytcc
-/usr/local/bin/youtube-dl `ytcc -o xsv subscriptions -a name,url | grep 'Mastering'|cut -f2 -d','` --config-location <(echo "
+/usr/local/bin/youtube-dl `ytcc -o xsv subscriptions -a name,url | grep 'hanselmann'|cut -f2 -d','` --config-location <(echo "
 -s
 -i
 -c
--o '/media/chriad/lenovo/YOUTUBE-PLAYLISTS/%(channel)s/%(playlist)s-alt/%(title)s.%(ext)s'
+-o '/media/chriad/lenovo/YOUTUBE-PLAYLISTS/%(channel)s/%(playlist)s/%(title)s.%(ext)s'
 --no-overwrites
 --write-info-json
 --write-thumbnail

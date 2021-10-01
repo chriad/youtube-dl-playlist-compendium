@@ -80,3 +80,9 @@ dynamic, will be updated
 
 youtube-dl --no-warnings --get-url https://hpc.guix.info/events/2021/atelier-reproductibilit%C3%A9-environnements/ | wget -i -
 
+cat urls.txt | ./download-series-from-url-file.sh '<name der Serie>'
+
+Why not completely in ytcc?
+
+1. does not work with playlist name, gives NA
+2. does not work with e.g. write_info_json and many more ytdl options
