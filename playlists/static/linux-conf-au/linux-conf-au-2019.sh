@@ -13,6 +13,6 @@ url='PLD8dAKx4J2I4LjVcMO4roVuRGPsalRXWc'
 --add-metadata
 --write-auto-sub
 --sub-lang en
---playlist-items 116,31,131,134
+--playlist-items 116,31,131,134,89,66,26,125
 ")
 

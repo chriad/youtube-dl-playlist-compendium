@@ -1,7 +1,7 @@
 #!/bin/bash
 # bang-bang-conf 2021
-/usr/local/bin/youtube-dl 'https://www.youtube.com/playlist?list=PLofFli6PGTsAwAglxHXhiHYwh3ZJf8QGX' --config-location <(echo "
--i
+url='PLofFli6PGTsAwAglxHXhiHYwh3ZJf8QGX'
+/usr/local/bin/youtube-dl "$url" --config-location <(echo "
 -c
 -o '/media/chriad/lenovo/YOUTUBE-PLAYLISTS/%(channel)s/%(playlist)s/%(title)s.%(ext)s'
 --no-overwrites

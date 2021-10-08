@@ -23,7 +23,7 @@
 023    Zen and the Art of Learning Assembler in the 21st Century
 024    The Bus Plan - Junior Staff Training
 025    Through the looking glass - how user testing can give technical writers better perspective
-026    How to Disappear Completely
+# 026    How to Disappear Completely
 027    MIXED REALITY AND ART - THE QUEST FOR THE SHINY
 028    XArray - One Data Structure To Rule Them All
 029    Patching through the snow - decentralised kernel CI on every patch
@@ -63,7 +63,7 @@
 063    MM101 introduction to memory management
 064    Hot Potato
 065    Optimising ID Allocation for low-memory devices
-066    Desktop to Mobile - Developing for Multiple Platforms without Losing Your Mind
+# 066    Desktop to Mobile - Developing for Multiple Platforms without Losing Your Mind
 067    The AV1 Video Codec
 068    The Robots Won't Take Away Our Jobs — Let's Reframe the Debate on Artificial Intelligence
 069    Firmware security, why it matters and how you can have it
@@ -86,7 +86,7 @@
 086    Using open source communities to provide uni students an insight into the IT industry.
 087    Open Source Quantum Computing
 088    GStreamer WebRTC - The flexible solution to web-based media
-089    The dark side of the ForSSHe
+# 089    The dark side of the ForSSHe
 090    Climbing the Summit with Open Source and POWER9
 091    Keynote - A linux.conf.au Story (C1)
 092    See what your computer is doing with Ftrace utilities
@@ -122,7 +122,7 @@
 122    Faucet SDN Tutorial
 123    The kernel report
 124    Beach Wreck Ignition - Challenges in open source voice
-125    Network Monitoring with AMP
+# 125    Network Monitoring with AMP
 126    Teaching 9-10 year olds to code
 127    Petitboot - Linux in the Bootloader
 128    Home multimedia and automation systems with GStreamer

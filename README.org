@@ -44,6 +44,9 @@ Look at embedded metadata:
 ffmpeg -i 'The Privacy Tax - How tracking and hacking affect disabled people, and what we can do about it.mkv' -f ffmetadata - 2> /dev/null
 #+end_src
 
+* xattrs
+https://www.freedesktop.org/wiki/CommonExtendedAttributes/
+
 Maybe conform to jellyfin naming?
 
 #+begin_src bash
