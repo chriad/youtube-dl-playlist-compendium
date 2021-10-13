@@ -13,7 +13,7 @@ url='PLofFli6PGTsAwAglxHXhiHYwh3ZJf8QGX'
 --sub-lang en
 --metadata-from-title '%(playlist)s - (?P<title>.+) by (?P<artist>.+)'
 --xattrs
---skip-download
---exec 'rename -d -e s/\!\!Con\ 2021\ \-// -e s/\ by// {}'
-") 
+--playlist-items 3
+--exec './ren.sh {}'
+")
 
