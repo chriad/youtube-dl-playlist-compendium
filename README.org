@@ -89,3 +89,6 @@ Why not completely in ytcc?
 
 1. does not work with playlist name, gives NA
 2. does not work with e.g. write_info_json and many more ytdl options
+
+** ytcc
+`ytcc -o xsv subscriptions -a name,url | grep 'hanselmann'|cut -f2 -d','`
