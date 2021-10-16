@@ -1,10 +1,10 @@
 #!/bin/bash
 
-url=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr
+url=PL0sMmOaE_gs3E0OjExoI7vlCAVygj6S4I
 /usr/local/bin/youtube-dl "$url" --config-location <(echo '
 -i
 -c
---metadata-from-title "%(title)s - %(tvsh)s #%(tven)s"
+--metadata-from-title "scimax - %(title)s"
 -o "/media/chriad/lenovo/%(extractor)s/%(channel)s/%(playlist)s/%(title)s.%(ext)s"
 --write-info-json
 --write-thumbnail
@@ -12,11 +12,9 @@ url=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr
 --write-auto-sub
 --sub-lang en
 --xattrs
---playlist-items 1,5
-# --postprocessor-args "-metadata tvsh=hanselmann"
+--playlist-items 5,11,14
 --add-metadata
-# --skip-download
 # --no-overwrites
 # --no-post-overwrites
-') 
+')
 

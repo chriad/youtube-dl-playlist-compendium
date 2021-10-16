@@ -92,3 +92,8 @@ Why not completely in ytcc?
 
 ** ytcc
 `ytcc -o xsv subscriptions -a name,url | grep 'hanselmann'|cut -f2 -d','`
+
+look at the emby log
+tail -f /var/lib/emby/logs/embyserver.txt
+
+ffprobe -i "/media/chriad/lenovo/emby-test/Scott Hanselman/Computer Stuff They Didn't Teach You/What's a Carriage and Who's Feeding it Lines CRLF - Computer Stuff They Didn't Teach You #1.mkv" -threads 0 -v info -print_format json -show_streams -show_chapters -show_format -show_data |fx
