@@ -5,7 +5,7 @@ url='PLD8dAKx4J2I4LjVcMO4roVuRGPsalRXWc'
 /usr/local/bin/youtube-dl "$url" --config-location <(echo "
 -i
 -c
--o '/media/chriad/lenovo/%(extractor)s/%(channel)s/%(playlist)s/%(title)s.%(ext)s'
+-o '/media/chriad/lenovo/%(extractor)s-playlists/%(channel)s/%(playlist)s/%(title)s.%(ext)s'
 --no-overwrites
 --write-info-json
 --write-thumbnail

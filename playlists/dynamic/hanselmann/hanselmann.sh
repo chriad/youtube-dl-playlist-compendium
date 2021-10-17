@@ -5,7 +5,7 @@ url=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr
 -i
 -c
 --metadata-from-title "%(title)s - %(tvsh)s #%(tven)s"
--o "/media/chriad/lenovo/%(extractor)s/%(channel)s/%(playlist)s/%(title)s.%(ext)s"
+-o "/media/chriad/lenovo/%(extractor)s-playlists/%(channel)s/%(playlist)s/%(title)s.%(ext)s"
 --write-info-json
 --write-thumbnail
 --write-description
