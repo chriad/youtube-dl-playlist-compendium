@@ -105,3 +105,8 @@ does not work:
 --metadata-from-title '%(playlist)s - (?P<title>.+) by (?P<artist>.+)'
 but:
 --metadata-from-title '%(playlist)s - %(title)s by %(artist)s'
+
+** switch emby to jellyfin
+systemctl start emby-server.service
+shutdown with gui
+service jellyfin start
