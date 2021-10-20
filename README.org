@@ -110,3 +110,6 @@ but:
 systemctl start emby-server.service
 shutdown with gui
 service jellyfin start
+
+** rename
+/snap/core20/1169/usr/bin/rename.ul -nv 'Il était une fois... la vie -' '' ./*
