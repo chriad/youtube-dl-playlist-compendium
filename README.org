@@ -113,3 +113,11 @@ service jellyfin start
 
 ** rename
 /snap/core20/1169/usr/bin/rename.ul -nv 'Il était une fois... la vie -' '' ./*
+
+** ARTE
+Untertitel mit:
+HTTPS_SQ_2     mp4        1280x720   VOF-STF, Französisch 2200k
+HTTPS_SQ_3     mp4        1280x720   VOF-STMF, Französisch (Hörgeschädigte) 2200k
+*STFM* -> hardgecoded (was ich will zum Sprachenlernen)
+Bsp: Kadyrow:
+Video franz mit franz untertitel und deutsch audio #2
