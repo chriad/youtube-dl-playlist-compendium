@@ -16,10 +16,5 @@ youtube-dl "$url" --config-location <(echo "
 --write-auto-sub
 --sub-lang en
 --yes-playlist
-# --metadata-from-title ''
-") 
+")
 
-# --reject-title 'Rotifers'
-# --playlist-items 1-3,4 
-# --metadata-from-title FORMAT
-# --match-filter FILTER
